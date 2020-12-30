@@ -33,6 +33,7 @@ name,Nombre
 none,Ninguno
 ok,Ok
 one_shot,Un Intento
+optional,Opcional
 outlet,Caja de Salida
 outlets,Caja de Salidas
 pin,Aguja
@@ -210,6 +211,7 @@ telemetry:notification:password,Contraseña
 telemetry:notification:port,Puerto
 telemetry:notification:server,Servidor
 telemetry:notification:to,Para
+telemetry:notification:username,Usuario
 temperatur:controlnothing,Nada
 temperature:calibrate,Calibración
 temperature:calibration:apply,Aplicar
